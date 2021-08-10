@@ -17,3 +17,12 @@ This is a little Zelda game I built using a new JavaScript library called Kaboom
 # Issues
 
 This project was fun but difficult. What made it difficult was the syntax that Kaboom wants you to use. It was innate methods that you have to use if you want to do certain things like create collision detection or start the game. I also had trouble getting Link to kill both types of enemies. I initially wrote logic that was supposed to destroy both enemies and this was contained in one function but it only killed one type of enemy. So I had to copy and paste the logic and switch out the names in order to kill the other enemy type. It was frustrating but I learned a lot.
+
+# Screenshots
+
+![Screenshot 1](snip1.PNG)
+![Screenshot 2](snip2.PNG)
+
+# Live Page
+
+Here is a link to the deployed site https://davids-zelda-game.netlify.app/
