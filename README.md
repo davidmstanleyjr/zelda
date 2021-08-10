@@ -20,8 +20,8 @@ This project was fun but difficult. What made it difficult was the syntax that K
 
 # Screenshots
 
-![Screenshot 1](snip1.PNG)
-![Screenshot 2](snip2.PNG)
+![Screenshot 1](images/snip1.PNG)
+![Screenshot 2](images/snip2.PNG)
 
 # Live Page
 
